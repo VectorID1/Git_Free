@@ -23,8 +23,7 @@
 
 	- `touch name.txt` - создать папку с именем _name_ и расширением _txt_
 
-	- `cp name ~/other/` - копируем папку _name_  в папку _other_ (`cp test.txt readme.txt info.txt ~/direct` здесь 3 файла в папку 
-_direct_)
+	- `cp name ~/other/` - копируем папку _name_  в папку _other_ (`cp test.txt readme.txt info.txt ~/direct` здесь 3 файла в папку direct_)
 
 	- `mv name ~/other/` - переносим папку _name  в папку _other_
 
